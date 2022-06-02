@@ -1,4 +1,4 @@
-$(() => $('#addtask').click(
+// Delete some code
     () => $('#todolist').append(
         $('<li>')
         .append(
